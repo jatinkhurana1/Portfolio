@@ -44,6 +44,7 @@ const ProjectCard = ({ project }: { project: Project }) => {
         alt={project.title}
         width={400}
         height={250}
+        unoptimized
         className="w-full h-[250px] object-cover"
       />
       <div className="absolute bottom-0 left-0 w-full h-24 bg-gradient-to-t from-black/90 to-transparent p-4 flex flex-col justify-end">
