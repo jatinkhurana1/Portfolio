@@ -76,14 +76,14 @@ const HeroSection = () => {
                       "cursor-default font-display sm:text-xl md:text-xl whitespace-nowrap bg-clip-text "
                     )}
                   >
-                    AI Enthusiast
+                    Web Dev x 日本語
                   </p>
                 </BlurIn>
               </div>
               <div className="mt-8 md:ml-2 flex flex-col gap-3">
                 <Link
                   href={
-                    "https://drive.google.com/file/d/1vjtWfqYGMIMK_rlBnmDEpKco9MiEaQss/view"
+                    "https://drive.google.com/file/d/1hLVQiR33gUUFtb8EaV4mm6rB8Jux7dSR/view?usp=sharing"
                   }
                   target="_blank"
                   className="flex-1"
@@ -108,7 +108,7 @@ const HeroSection = () => {
                       </Link>
                     </TooltipTrigger>
                     <TooltipContent side="bottom">
-                      <p>pls 🥹 🙏</p>
+                      <p></p>
                     </TooltipContent>
                   </Tooltip>
                   <Link

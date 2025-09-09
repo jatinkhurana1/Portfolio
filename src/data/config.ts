@@ -20,8 +20,8 @@ const config = {
     "Three.js",
   ],
   author: "Jatin Meena",
-  email: "Jatinmeena350@gmail.com.com",   // <-- put your correct email here
-  site: "https://yourdomain.com",   // <-- replace with your domain (or GitHub Pages/Netlify/Vercel link)
+  email: "Jatinkhurana350@gmail.com",   // <-- put your correct email here
+  site: "#",   // <-- replace with your domain (or GitHub Pages/Netlify/Vercel link)
 
   get ogImg() {
     return this.site + "/assets/seo/og-image.png";

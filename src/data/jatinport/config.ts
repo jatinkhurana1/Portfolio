@@ -1,5 +1,5 @@
 const config = {
-  title: "Jatin Meena | BA English Hons & JLPT N3",
+  title: "Jatin Meena | JLPT N3",
   description: {
     long: "Explore the portfolio of Jatin Meena, a BA English Hons graduate with JLPT N3 certification. Passionate about creativity, languages, and building interactive 3D experiences on the web.",
     short: "Discover the portfolio of Jatin Meena, combining design, languages, and 3D interactivity.",
@@ -27,7 +27,7 @@ const config = {
     return this.site + "/assets/seo/og-image.png";
   },
   social: {
-    twitter: "https://twitter.com/YOUR_HANDLE",   // <-- replace with your real link
+    twitter: '#',   // <-- replace with your real link
     linkedin: "https://linkedin.com/in/contactjatinmeena",
     instagram: "https://www.instagram.com/jatinkhuraana/",
     facebook: "#", // can remove if you don’t want it
